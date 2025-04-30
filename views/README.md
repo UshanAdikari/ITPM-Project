@@ -1,1 +1,1 @@
-src folder
+views folder
